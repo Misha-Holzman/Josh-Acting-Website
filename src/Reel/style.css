@@ -12,12 +12,35 @@
   background-size: cover; */
 }
 
-.reel-content-container {
+.reel-content-container-div {
   display: flex;
-  flex-direction: row;
+  justify-content: center;
   align-content: center;
   align-items: center;
-  justify-content: center;
-  margin-left: 5%;
-  width: 70%;
+  flex-direction: column;
+  width: 70%; 
+  background-image: url('https://i.imgur.com/AH09luV.png');
+  height: 560px;
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 3%;
+  /* -webkit-box-shadow: 0px 14px 31px -3px rgba(0,0,0,.6);
+  -moz-box-shadow: 0px 14px 31px -3px rgba(0,0,0,.6);
+  box-shadow: 0px 14px 31px -3px rgba(0,0,0,.6); */
+  border-radius: 5px;
+}
+
+.reel-title {
+  font-family: 'Cutive Mono', monospace;
+  font-weight: 200;
+  font-size: 32px;
+  border-bottom: 1px solid black;
+  margin: 0 auto;
+  margin-bottom: 3%; 
+}
+
+.vimeo-vid {
+  -webkit-box-shadow: 0px 0px 13px -1px rgba(0,0,0,0.66);
+  -moz-box-shadow: 0px 0px 13px -1px rgba(0,0,0,0.66);
+  box-shadow: 0px 0px 13px -1px rgba(0,0,0,0.66);
 }

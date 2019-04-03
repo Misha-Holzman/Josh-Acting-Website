@@ -1,18 +1,17 @@
 import React, { Component } from 'react'
 import './style.css'
 
-
 class About extends Component {
   render () {
     return (
       <div className='about-main-container'>
-        <div className='about-content-container'>
-          <div className='about-josh-image-container'>
-            <img src='https://i.imgur.com/UWFgowJ.jpg' className='about-josh-image' />
+        <h3 className='about-title-text'>About me</h3>
+        <div className='about-text-main-container'>
+          <div className='about-text-container-left'>
+            <p className='about-me-text'>Lorem ipsum dolor sit amet consectetuer adipiscing elit. Eu magna augue taciti scelerisque facilisis orci in sollicitudin bibendum fames. Duis ridiculus viverra massa gravida. Etiam eget ac aliquet posuere blandit pede ut justo proin habitasse odio hac. Risus quisque laoreet lacinia mi at odio. Neque eget gravida adipiscing lobortis id semper sed ut mollis ridiculus.</p>
           </div>
-          <div className='about-text-container'>
-            <h3 className='about-me-title-text'>About me</h3>
-            <p className='about-me-text'>I was born in raised in NYC surrounded by art and design. I love to create art and music in my free time and I cultivate my creative drive in web development. I studied business and management in college, and I have found that such a background gives me a great advantage when creating effective and engaging user experiences on a website.</p>
+          <div className='about-text-container-right'>
+            <p className='about-me-text'>Facilisi morbi vel consectetuer etiam arcu nibh fames vestibulum eros class tempor. Ad sociosqu eros primis et dictumst nonummy cubilia platea proin! Ac mollis? Et platea tincidunt potenti curabitur litora habitant parturient. Varius dolor sollicitudin at litora sollicitudin. Inceptos proin vulputate senectus in ipsum eu vulputate netus mi lectus pharetra.</p>
           </div>
         </div>
       </div>
