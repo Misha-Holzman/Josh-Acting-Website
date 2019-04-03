@@ -1,56 +1,21 @@
-// Dependencies
 import React, { Component } from 'react'
-// Externals
-import Field from '../Field'
-import Button from '../Button'
+import './style.css'
 
+// import Field from '../Field'
+// import Button from '../Button'
 
 class ContactForm extends Component {
-  constructor (props) {
-    super(props)
-    this.state = {
-      name: '',
-      email: '',
-      message: ''
-    }
-    // To ensure 'this' when calling 'this.updateField' refers to Form and not Field, we do:
-    this.updateField = this.updateField.bind(this)
-  }
-
-  // Field could be 'name', 'email', or 'message'
-  // Value is whatever the user types into the input field.
-  updateField (field, value) {
-    this.setState({ [field]: value })
-  }
-
   render () {
     return (
       <div>
-        {/* Name field */}
-        <Field
-          label='Name'
-          onChange={(event) => this.updateField('name', event.target.value)}
-          value={this.state.name}
-        />
-        {/* Email field */}
-        <Field
-          label='Email'
-          onChange={(event) => this.updateField('email', event.target.value)}
-          value={this.state.email}
-        />
-        {/* Message textarea */}
-        <Field
-          label='Message'
-          onChange={(event) => this.updateField('message', event.target.value)}
-          /* This should be written like 'textarea' */
-          // textarea
-          value={this.state.message}
-        />
-        {/* Submit button */}
-        <Button
-          email='bigmisshh@gmail.com'
-          formValues={this.state}
-        />
+        <form id='contactform' action='//formspree.io/bigmisshh@gmail.com' method='POST' >
+          <input type='text' name='name' placeholder='Your name' id='name-input' />
+          <input type='email' name='_replyto' placeholder='Your email' id='email-input' />
+          <input type='text' name='_subject' placeholder='Subject' id='subject-input' />
+          <textarea name='message' rows='4' placeholder='Your message' id='message-input' />
+          <input type='text' name='_gotcha' style={{ display: 'none' }} />
+          <input id='submit-button' type='submit' value='Send' />
+        </form>
       </div>
     )
   }

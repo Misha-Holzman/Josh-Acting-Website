@@ -6,7 +6,10 @@ class Contact extends Component {
   render () {
     return (
       <div className='contact-main-container'>
-        <p className='contact-title'>Contact Me</p>
+        <p className='contact-title'>Contact me</p>
+        <p className='contact-description'>
+        Shoot me an email about any inquiries. I’m always happy to chat!
+        </p>
         <div className='contact-form-container'>
           <ContactForm />
         </div>
