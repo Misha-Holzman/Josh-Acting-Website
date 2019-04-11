@@ -1,5 +1,7 @@
 .images-main-container {
-  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .images-content-container {
@@ -7,8 +9,6 @@
   flex-flow: row wrap;
   justify-content: center;
   width: 100%;
-  padding-top: 5%;
-  margin-bottom: 10%;
 }
 
 
@@ -27,8 +27,9 @@
   font-size: 35px;
   border-bottom: 1px solid black;
   width: 15%;
-  margin: 0 auto;
-  padding-top: 5%;
+  text-align: center;
+  margin-top: 5%;
+  margin-bottom: 5%;
 }
 
 .images-tab-imgs-of-josh:hover {
@@ -42,27 +43,21 @@
   font-size: 18px;
   font-weight: 600;
   line-height: 1.6;
+  
 }
 
 .headshots-credit-div {
   display: flex;
   justify-content: center;
-  align-items: flex-end;
-  width: 100%;
+  align-items: center;
+  align-content: center;
+  width: 90%;
+  margin-bottom: 4%;
 }
 
 .headshots-giving-credit-text {
-  -webkit-transform: translate(-51%, -50%);
-  -moz-transform: translate(-51%, -50%);
-  -ms-transform: translate(-51%, -50%);
-  -o-transform: translate(-51%, -50%);
-  transform: translate(-51%, -50%);
-  /* max-width: 400px;
-  width: 100%; */
-  transform-origin: center;
-  animation: loadBounce 0.2s ease-in-out forwards;
-  margin-right: -31%;
-  margin-top: -1%;
+  transform-origin: center; 
+  text-align: center;
 }
 
 .headshots-giving-credit-text .link-to-headshot-guy {
@@ -77,29 +72,11 @@
   background: linear-gradient(to right, #00d1b1 0%, #278fc6 98%);
   background-size: 0px 2px;
   background-repeat: no-repeat;
-  background-position: left 85%;
+  background-position: center 85%;
   text-shadow: 0;
 }
 
 .headshots-giving-credit-text .link-to-headshot-guy:hover {
   background-size: 100% 2px;
   text-shadow: 0 2.5px 4px rgba(0, 0, 0, 0.5);
-}
-
-@keyframes loadBounce {
-  0% {
-    transform: translate(-50%, -50%) scale(0);
-  }
-  40% {
-    transform: translate(-50%, -50%) scale(1.2);
-  }
-  60% {
-    transform: translate(-50%, -50%) scale(1);
-  }
-  80% {
-    transform: translate(-50%, -50%) scale(1.1);
-  }
-  100% {
-    transform: translate(-50%, -50%) scale(1);
-  }
 }

@@ -9,7 +9,7 @@ class Reel extends Component {
       <div className='reel-main-container'>
         <div className='reel-content-container-div'>
           <h3 className='reel-title' id='real-jump-link'>Reel</h3>
-          <ReactPlayer url='https://vimeo.com/318350985' className='vimeo-vid' />
+          <ReactPlayer url='https://vimeo.com/318350985' style={{  }} />
         </div>
       </div>
     )

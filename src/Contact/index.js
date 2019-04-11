@@ -19,3 +19,6 @@ class Contact extends Component {
 }
 
 export default Contact
+
+
+// Ikon Images / Alamy Stock Photo

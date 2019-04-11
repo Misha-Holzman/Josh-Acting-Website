@@ -19,6 +19,7 @@
   background-repeat: no-repeat;
   background-position: 47% 50%;
   background-size: 100% 100%;
+  padding-bottom: 4%;
 }
 
 
@@ -30,8 +31,7 @@
   -moz-box-shadow: 6px 6px 52px -1px rgb(113,209,189);
   box-shadow: 6px 6px 52px -1px rgb(113,209,189);
   z-index: 4;
-  margin-bottom: .5%;
-
+  /* margin-bottom: -3%; */
 }
 
 .homepage-alternate-background-color {
@@ -73,10 +73,12 @@
 
 
 
-#link {
+
+
+#arrow-link {
   text-decoration: none;
-  margin-top: 6%;
   margin: 0 auto;
+  margin-top: -3%;
 }
 
 .arrow {
