@@ -26,27 +26,18 @@
 .homepage-img-of-josh {
   height: 500px;
   border-radius: 4px;
-  /* padding-right: 20%; */
   -webkit-box-shadow: 6px 6px 52px -1px rgb(113,209,189);
   -moz-box-shadow: 6px 6px 52px -1px rgb(113,209,189);
   box-shadow: 6px 6px 52px -1px rgb(113,209,189);
   z-index: 4;
-  /* margin-bottom: -3%; */
 }
 
 .homepage-alternate-background-color {
-  /* background: rgb(113,209,189); */
-  /* background: -webkit-linear-gradient(to right, rgba(41,255,198,.3), rgba(12,235,235,.3), rgba(12,235,235,.3));
-  background: linear-gradient(to right, rgba(41,255,198,.3), rgba(12,235,235,.3), rgba(12,235,235,.3)); */
-  /* border: 1px solid rgb(113,209,189); */
   background-image: url('https://i.imgur.com/AH09luV.png');
   height: 520px;
   width: 80%;
   margin: 0 auto;
   margin-top: 12%;
-  /* -webkit-box-shadow: 0px 14px 31px -3px rgba(0,0,0,.6);
-  -moz-box-shadow: 0px 14px 31px -3px rgba(0,0,0,.6);
-  box-shadow: 0px 14px 31px -3px rgba(0,0,0,.6); */
   border-radius: 5px;
   display: flex;
   justify-content: center;
