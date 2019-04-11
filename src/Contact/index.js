@@ -7,6 +7,13 @@ class Contact extends Component {
     return (
       <div className='contact-main-container'>
         <p className='contact-title'>Contact me</p>
+        <div className='social-container'>
+          <ul className='social-icons'>
+            <li className='li-social'><a href='#' className='a-social'><i className='fa fa-instagram' /></a></li>
+            <li className='li-social'><a href='#' className='a-social'><i className='fa fa-linkedin' /></a></li>
+            <li className='li-social'><a href='#' className='a-social'><i className='fa fa-facebook' /></a></li>
+          </ul>
+        </div>
         <p className='contact-description'>
         Shoot me an email about any inquiries. I’m always happy to chat!
         </p>
@@ -19,6 +26,5 @@ class Contact extends Component {
 }
 
 export default Contact
-
 
 // Ikon Images / Alamy Stock Photo
