@@ -8,6 +8,7 @@
 }
 
 #name-input {
+  -webkit-appearance: none;
   box-shadow: 6px 7px 0px -1px #70d1bd;
   -webkit-box-shadow: 6px 7px 0px -1px #70d1bd;
   -moz-box-shadow: 6px 7px 0px -1px #70d1bd;
@@ -16,6 +17,7 @@
 }
 
 #email-input {
+  -webkit-appearance: none;
   box-shadow: 6px 7px 0px -1px #70d1bd;
   -webkit-box-shadow: 6px 7px 0px -1px #70d1bd;
   -moz-box-shadow: 6px 7px 0px -1px #70d1bd;
@@ -24,6 +26,7 @@
 }
 
 #subject-input {
+  -webkit-appearance: none;
   box-shadow: 6px 7px 0px -1px #70d1bd;
   -webkit-box-shadow: 6px 7px 0px -1px #70d1bd;
   -moz-box-shadow: 6px 7px 0px -1px #70d1bd;
@@ -32,6 +35,7 @@
 }
 
 #message-input {
+  -webkit-appearance: none;
   box-shadow: 6px 7px 0px -1px #70d1bd;
   -webkit-box-shadow: 6px 7px 0px -1px #70d1bd;
   -moz-box-shadow: 6px 7px 0px -1px #70d1bd;
@@ -40,6 +44,7 @@
 }
 
 #submit-button {
+  -webkit-appearance: none;
   background-color:  #70d1bd;  
   color: rgb(234,92,90); 
   font-size: 20px;
@@ -47,11 +52,16 @@
   font-family: Cutive Mono, monospace;
   margin-top: 3%;
   box-shadow: 6px 6px 0px -1px rgb(234,92,90);
+  -webkit-box-shadow: 6px 6px 0px -1px rgb(234,92,90);
+  -moz-box-shadow: 6px 6px 0px -1px rgb(234,92,90);
   transition: 400ms;
 }
 
 #submit-button:hover {
+  -webkit-appearance: none;
   box-shadow: -6px -6px 0px -1px rgb(234,92,90);
+  -webkit-box-shadow: -6px -6px 0px -1px rgb(234,92,90);
+  -moz-box-shadow: -6px -6px 0px -1px rgb(234,92,90);
   transition: 400ms;
   background-color:  #70d1bd;  
 }
