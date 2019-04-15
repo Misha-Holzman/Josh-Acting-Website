@@ -302,5 +302,11 @@ body {
     margin-top: 1%;
   }
 
+}
 
+.hidden-nav-li-item:hover {
+  transition: 200ms;
+  -webkit-box-shadow: 5px 5px 0px -1px rgba(234,92,90,1);
+  -moz-box-shadow: 5px 5px 0px -1px rgba(234,92,90,1);
+  box-shadow: 5px 5px 0px -1px rgba(234,92,90,1);
 }

@@ -16,12 +16,12 @@
   font-family: 'Cutive Mono', monospace;
   font-size: 50px;
   margin-top: 5%;
-  margin-bottom: 4%;
+  margin-bottom: 3%;
   color: black;
   font-weight: 200;
   /* border-top: 2px solid black;
   border-bottom: 2px solid black; */
-  width: 45%;
+  width: 100%;
   text-align: center;
 }
 
@@ -29,12 +29,12 @@
 .credits-links-ul {
   list-style: none;
   display: flex;
-  flex-direction: row;
+  flex-flow: row wrap;
   width: 100%;
   justify-content: center;
   align-content: center;
   align-items: center;
-  margin-top: 3%;
+  margin-top: 1%;
 }
 .credits-link-li {
   margin-left: 0%;
@@ -42,6 +42,7 @@
   /* border: 1px solid rgb(112,209,189); */
   padding: .5% 1% .5% 1%;
   border-radius: 30px;
+  margin-top: 3%;
 }
 .credits-link {
   text-decoration: none;
@@ -91,7 +92,7 @@
 .credits-vitals-ul {
   list-style: none;
   display: flex;
-  flex-direction: row;
+  flex-flow: row wrap;
   width: 100%;
   justify-content: center;
   align-content: center;
@@ -117,8 +118,10 @@
   justify-content: center;
   align-content: center;
   align-items: center;
+  flex-flow: row wrap;
   width: 50%;
   margin-bottom: 5%;
+  text-align: center;
 }
 
 .members-equity-logo {
@@ -194,35 +197,41 @@
   border-bottom: 1px solid rgb(167, 167, 167);  
   margin-bottom: 20%;
   font-size: 30px;
+  text-align: center;
 }
 .special-skills-section-title {
   font-family: "Montserrat", sans-serif;
   border-bottom: 1px solid rgb(167, 167, 167);  
   margin-bottom: 20%;
   font-size: 30px;
+  text-align: center;
 }
 .tv-section-title {
   font-family: "Montserrat", sans-serif;
   border-bottom: 1px solid rgb(167, 167, 167);  
   font-size: 30px;
+  text-align: center;
 }
 .podcasts-section-title {
   font-family: "Montserrat", sans-serif;
   border-bottom: 1px solid rgb(167, 167, 167);  
   margin-bottom: 10%;
   font-size: 30px;
+  text-align: center;
 }
 .training-section-title {
   font-family: "Montserrat", sans-serif;
   border-bottom: 1px solid rgb(167, 167, 167);  
   margin-bottom: 20%;
   font-size: 30px;
+  text-align: center;
 }
 .special-skills-section-title {
   font-family: "Montserrat", sans-serif;
   border-bottom: 1px solid rgb(167, 167, 167);  
   margin-bottom: 10%;
   font-size: 30px;
+  text-align: center;
 }
 
 .theater-info-part {
@@ -234,6 +243,7 @@
   border-bottom: 1px dashed rgb(196, 196, 196);
   padding-bottom: 3%;
   margin-top: 3%;
+  text-align: center;
 }
 .training-info-part {
   display: flex;
@@ -244,6 +254,7 @@
   border-bottom: 1px dashed rgb(196, 196, 196);
   padding-bottom: 3%;
   margin-top: 3%;
+  text-align: center;
 }
 .special-skills-info-part {
   display: flex;
@@ -254,6 +265,7 @@
   border-bottom: 1px dashed rgb(196, 196, 196);
   padding-bottom: 3%;
   margin-top: 3%;
+  text-align: center;
 }
 
 .special-skills-info-part-last {
@@ -264,6 +276,7 @@
   width: 40%;
   padding-bottom: 3%;
   margin-top: 3%;
+  text-align: center;
 }
 
 
@@ -275,6 +288,7 @@
   width: 40%;
   padding-bottom: 3%;
   margin-top: 3%;
+  text-align: center;
 }
 .training-info-part-last {
   display: flex;
@@ -284,6 +298,7 @@
   width: 40%;
   padding-bottom: 3%;
   margin-top: 3%;
+  text-align: center;
 }
 
 .theater-play-and-character {
@@ -291,17 +306,20 @@
   flex-direction: row;
   justify-content: center;
   width: 100%;
+  text-align: center;
 }
 
 .play-name {
   font-family: "Montserrat", sans-serif;  
   font-weight: 800;
   font-size: 17px;
+  text-align: center;
 }
 .special-skills-name {
   font-family: "Montserrat", sans-serif;  
   font-weight: 800;
   font-size: 17px;
+  text-align: center;
 }
 
 .play-character {
@@ -309,6 +327,7 @@
   font-size: 17px;
   font-weight: 400;
   margin-top: -1%;
+  text-align: center;
 }
 .theater-name {
   margin-top: -1%;
@@ -316,6 +335,7 @@
   font-family: "Montserrat", sans-serif;  
   font-weight: 200;
   font-style: italic;
+  text-align: center;
 }
 
 
@@ -323,17 +343,20 @@
   font-family: "Montserrat", sans-serif;  
   font-weight: 800;
   font-size: 17px;
+  text-align: center;
 }
 .training-title {
   font-family: "Montserrat", sans-serif;  
   font-weight: 800;
   font-size: 17px;
   text-align: center;
+  text-align: center;
 }
 .training-title-last {
   font-family: "Montserrat", sans-serif;  
   font-weight: 500;
   font-size: 17px;
+  text-align: center;
   text-align: center;
 }
 
@@ -343,6 +366,7 @@
   font-size: 17px;
   font-weight: 400;
   margin-top: -1%;
+  text-align: center;
 }
 .podcast-name {
   margin-top: -1%;
@@ -350,6 +374,7 @@
   font-family: "Montserrat", sans-serif;  
   font-weight: 200;
   font-style: italic;
+  text-align: center;
 }
 .podcast-episode {
   margin-top: -1%;
@@ -357,6 +382,7 @@
   font-family: "Montserrat", sans-serif;  
   font-weight: 200;
   font-style: italic;
+  text-align: center;
 }
 
 .special-skills-specifics {
@@ -365,6 +391,7 @@
   font-family: "Montserrat", sans-serif;  
   font-weight: 200;
   font-style: italic;
+  text-align: center;
 }
 
 .special-skills-singular {
@@ -372,6 +399,7 @@
   font-size: 15px;
   font-family: "Montserrat", sans-serif;  
   font-weight: 600;
+  text-align: center;
 }
 
 
@@ -459,12 +487,13 @@
 
 
 .scroll-your-role {
-  background-color: white;
+  background-color: #71d1bd;
   font-family: 'Cutive Mono', monospace;
-  border-radius: 200px;
-  width: 41px;
-  padding: 3px 10px;
-  font-size: 30px;
+  border-radius: 100%;
+  width: 45px;
+  padding: 8px 5px 10px 3px;
+  font-size: 20px;
+  font-weight: 200;
   /* -webkit-box-shadow: 8px 8px 29px -5px rgba(0,0,0,0.48);
   -moz-box-shadow: 8px 8px 29px -5px rgba(0,0,0,0.48);
   box-shadow: 8px 8px 29px -5px rgba(0,0,0,0.48); */

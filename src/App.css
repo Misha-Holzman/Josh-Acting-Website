@@ -150,6 +150,17 @@
 		border-radius: 5px;
 		margin-top: 1%;
 	}
+
+	.contact-title {
+		color: #71d1bd;
+		font-family: 'Cutive Mono', monospace;
+		font-size: 25px;
+		border-bottom: 2px solid #71d1bd;
+		width: 9%;
+		margin: 0 auto;
+		text-align: center;
+		font-weight: 800;
+	}
 	
 }
 
@@ -251,6 +262,18 @@
 		border-radius: 5px;
 		margin-top: 1%;
 	}
+
+	.contact-title {
+		color: #71d1bd;
+		font-family: 'Cutive Mono', monospace;
+		font-size: 25px;
+		border-bottom: 2px solid #71d1bd;
+		width: 10%;
+		margin: 0 auto;
+		text-align: center;
+		font-weight: 800;
+	}
+	
 	
 }
 
@@ -326,6 +349,17 @@
 		flex-flow: row wrap;
 		justify-content: center;
 		width: 70%;
+	}
+
+	.contact-title {
+		color: #71d1bd;
+		font-family: 'Cutive Mono', monospace;
+		font-size: 25px;
+		border-bottom: 2px solid #71d1bd;
+		width: 10%;
+		margin: 0 auto;
+		text-align: center;
+		font-weight: 800;
 	}
 
 	
@@ -559,6 +593,17 @@
   	margin-right: 10%;
 	}
 
+	.contact-title {
+		color: #71d1bd;
+		font-family: 'Cutive Mono', monospace;
+		font-size: 25px;
+		border-bottom: 2px solid #71d1bd;
+		width: 11%;
+		margin: 0 auto;
+		text-align: center;
+		font-weight: 800;
+	}
+
 }
 
 @media screen and (max-width: 1478px) {
@@ -713,6 +758,17 @@
   	margin-right: 8%;
 	}
 
+	.contact-title {
+		color: #71d1bd;
+		font-family: 'Cutive Mono', monospace;
+		font-size: 25px;
+		border-bottom: 2px solid #71d1bd;
+		width: 12%;
+		margin: 0 auto;
+		text-align: center;
+		font-weight: 800;
+	}
+
 }
 
 
@@ -831,7 +887,6 @@
 	  margin-bottom: 5%;
 	}
 
-		
 	.media-header-text {
 		font-family: 'Cutive Mono', monospace;
 		font-weight: 200;
@@ -897,6 +952,17 @@
 		text-align: center;
 	  margin-top: 5%;
 	  margin-bottom: 5%;
+	}
+
+	.contact-title {
+		color: #71d1bd;
+		font-family: 'Cutive Mono', monospace;
+		font-size: 25px;
+		border-bottom: 2px solid #71d1bd;
+		width: 13%;
+		margin: 0 auto;
+		text-align: center;
+		font-weight: 800;
 	}
 
 }
@@ -983,6 +1049,17 @@
 		margin-right: 5%;
 		margin-left: 5%;
 	}
+	
+	.contact-title {
+		color: #71d1bd;
+		font-family: 'Cutive Mono', monospace;
+		font-size: 25px;
+		border-bottom: 2px solid #71d1bd;
+		width: 14%;
+		margin: 0 auto;
+		text-align: center;
+		font-weight: 800;
+	}
 }
 
 @media screen and (max-width: 1155px) {
@@ -1060,6 +1137,37 @@
 		text-align: center;
 	}
 
+	.theater-info-part {
+		width: 45%;
+	}
+	.training-info-part {
+		width: 45%;
+	}
+	.special-skills-info-part {
+		width: 45%;
+	}
+	.theater-info-part-last {
+		width: 45%;
+	}
+	.training-info-part-last {
+		width: 45%;
+	}
+	.special-skills-info-part-last {
+		width: 45%;
+	}
+
+
+	.contact-title {
+		color: #71d1bd;
+		font-family: 'Cutive Mono', monospace;
+		font-size: 25px;
+		border-bottom: 2px solid #71d1bd;
+		width: 14.5%;
+		margin: 0 auto;
+		text-align: center;
+		font-weight: 800;
+	}
+
 }
 
 
@@ -1123,6 +1231,22 @@
 		padding-top: 5%;
 		text-align: center;
 	}
+
+	.contact-form-container {
+		width: 40%;
+		margin: 0 auto;
+	}
+
+	.contact-title {
+		color: #71d1bd;
+		font-family: 'Cutive Mono', monospace;
+		font-size: 25px;
+		border-bottom: 2px solid #71d1bd;
+		width: 16%;
+		margin: 0 auto;
+		text-align: center;
+		font-weight: 800;
+	}
 }
 
 @media screen and (max-width: 975px) {
@@ -1136,6 +1260,38 @@
 		box-shadow: 6px 6px 52px -1px rgb(113,209,189);
 		z-index: 4;
 		margin-bottom: .5%;
+	}
+
+
+	.theater-info-part {
+		width: 50%;
+	}
+	.training-info-part {
+		width: 50%;
+	}
+	.special-skills-info-part {
+		width: 50%;
+	}
+	.theater-info-part-last {
+		width: 50%;
+	}
+	.training-info-part-last {
+		width: 50%;
+	}
+	.special-skills-info-part-last {
+		width: 50%;
+	}
+
+
+	.contact-title {
+		color: #71d1bd;
+		font-family: 'Cutive Mono', monospace;
+		font-size: 25px;
+		border-bottom: 2px solid #71d1bd;
+		width: 17%;
+		margin: 0 auto;
+		text-align: center;
+		font-weight: 800;
 	}
 }
 
@@ -1197,6 +1353,22 @@
 		padding-top: 5%;
 		text-align: center;
 	}
+
+	.home-page-main-container {
+		margin-top: 2%;
+	}
+
+
+	.contact-title {
+		color: #71d1bd;
+		font-family: 'Cutive Mono', monospace;
+		font-size: 25px;
+		border-bottom: 2px solid #71d1bd;
+		width: 18%;
+		margin: 0 auto;
+		text-align: center;
+		font-weight: 800;
+	}
 }
 
 @media screen and (max-width: 880px) {
@@ -1241,6 +1413,53 @@
 	.reel-content-container-div {
 		height: 480px;
 		margin-top: 5%;
+	}
+
+	.theater-info-part {
+		width: 60%;
+	}
+	.training-info-part {
+		width: 60%;
+	}
+	.special-skills-info-part {
+		width: 60%;
+	}
+	.theater-info-part-last {
+		width: 60%;
+	}
+	.training-info-part-last {
+		width: 60%;
+	}
+	.special-skills-info-part-last {
+		width: 60%;
+	}
+
+
+	.contact-form-container {
+		width: 50%;
+		margin: 0 auto;
+	}
+
+
+	.contact-title {
+		color: #71d1bd;
+		font-family: 'Cutive Mono', monospace;
+		font-size: 25px;
+		border-bottom: 2px solid #71d1bd;
+		width: 20%;
+		margin: 0 auto;
+		text-align: center;
+		font-weight: 800;
+	}
+
+	.contact-description {
+		color: black;
+		font-family: 'Cutive Mono', monospace;
+		font-size: 20px;
+		text-align: center;
+		margin: 0 auto;
+		margin-bottom: 4%;
+		width: 90%;
 	}
 }
 
@@ -1309,7 +1528,94 @@
 		height: 480px;
 		margin-top: 5%;
 	}
+
+	.credits-vitals-li {
+		margin-left: 3%;
+		margin-right: 3%;
+		font-family: 'Cutive Mono', monospace;
+		margin-top: 2%
+	}
+
+	.video-text {
+		margin-bottom: 7%;
+	}
+	
+
+	.contact-title {
+		color: #71d1bd;
+		font-family: 'Cutive Mono', monospace;
+		font-size: 25px;
+		border-bottom: 2px solid #71d1bd;
+		width: 21%;
+		margin: 0 auto;
+		text-align: center;
+		font-weight: 800;
+	}
+
 }
+
+
+@media screen and (max-width: 747px) {
+	.scroll-your-role {
+		background-color: #71d1bd;
+		font-family: 'Cutive Mono', monospace;
+		border-radius: 100%;
+		width: 50px;
+		padding: 2px 13px 2px 0px;
+		font-size: 20px;
+		font-weight: 200;
+		/* -webkit-box-shadow: 8px 8px 29px -5px rgba(0,0,0,0.48);
+		-moz-box-shadow: 8px 8px 29px -5px rgba(0,0,0,0.48);
+		box-shadow: 8px 8px 29px -5px rgba(0,0,0,0.48); */
+		border: 1px solid black;
+	}
+
+
+
+}
+
+
+@media screen and (max-width: 725px) {
+
+	.members-equity-logo {
+  	height: 25px;
+		padding-left: 0%;
+		margin-top: 2%;
+		margin-bottom: 10%;
+	}
+
+	.theater-info-part {
+		width: 70%;
+	}
+	.training-info-part {
+		width: 70%;
+	}
+	.special-skills-info-part {
+		width: 70%;
+	}
+	.theater-info-part-last {
+		width: 70%;
+	}
+	.training-info-part-last {
+		width: 70%;
+	}
+	.special-skills-info-part-last {
+		width: 70%;
+	}
+
+	.contact-title {
+		color: #71d1bd;
+		font-family: 'Cutive Mono', monospace;
+		font-size: 25px;
+		border-bottom: 2px solid #71d1bd;
+		width: 23%;
+		margin: 0 auto;
+		text-align: center;
+		font-weight: 800;
+	}
+	
+}
+
 
 @media screen and (max-width: 709px) {
 	.homepage-img-of-josh {
@@ -1347,6 +1653,17 @@
 		text-align: center;
 	  margin-top: 5%;
 	  margin-bottom: 5%;
+	}
+
+	.josh-name-big {
+		color: #111;
+		font-size: 40px;
+		font-family: 'Rubik Mono One', sans-serif;
+		font-weight: 500;
+		text-shadow: 4px 4px 9px rgba(117, 65, 214, .4);
+		text-align: center;
+		text-transform: uppercase;
+		display: inline-block;
 	}
 }
 
@@ -1393,6 +1710,83 @@
 	#player2 {
 		width: 80% !important;
 		height: 40% !important;
+	}
+
+	#player {
+		width: 80% !important;
+		height: 60% !important;
+	}
+
+	.member-equity-text {
+		font-family: 'Cutive Mono', monospace;
+		font-size: 15px;
+		display: flex;
+		justify-content: center;
+		align-content: center;
+		align-items: center;
+		flex-flow: row wrap;
+		width: 50%;
+		margin-bottom: 5%;
+		text-align: center;
+		margin-top: 4%;
+	}
+
+
+	.theater-info-part {
+		width: 83%;
+	}
+	.training-info-part {
+		width: 83%;
+	}
+	.special-skills-info-part {
+		width: 83%;
+	}
+	.theater-info-part-last {
+		width: 83%;
+	}
+	.training-info-part-last {
+		width: 83%;
+	}
+	.special-skills-info-part-last {
+		width: 83%;
+	}
+
+	.homepage-img-of-josh {
+		height: 280px;
+	}
+
+	.home-page-main-container {
+		margin-top: 3%;
+	}
+
+	.homepage-alternate-background-color {
+		background-image: url('https://i.imgur.com/AH09luV.png');
+		height: 400px;
+		width: 80%;
+		margin: 0 auto;
+		margin-top: 10%;
+		border-radius: 5px;
+		display: flex;
+		justify-content: center;
+		align-content: center;
+		align-items: center;
+		flex-direction: column;
+	}
+
+	.contact-form-container {
+		width: 59%;
+		margin: 0 auto;
+	}
+
+	.contact-title {
+		color: #71d1bd;
+		font-family: 'Cutive Mono', monospace;
+		font-size: 25px;
+		border-bottom: 2px solid #71d1bd;
+		width: 28%;
+		margin: 0 auto;
+		text-align: center;
+		font-weight: 800;
 	}
 }
 
@@ -1452,6 +1846,92 @@
 		padding-top: 5%;
 		text-align: center;
 	}
+
+	.theater-info-part {
+		width: 95%;
+	}
+	.training-info-part {
+		width: 95%;
+	}
+	.special-skills-info-part {
+		width: 95%;
+	}
+	.theater-info-part-last {
+		width: 95%;
+	}
+	.training-info-part-last {
+		width: 95%;
+	}
+	.special-skills-info-part-last {
+		width: 95%;
+	}
+
+	.homepage-img-of-josh {
+		height: 280px;
+		margin-bottom: 5%;
+	}
+
+	.josh-name-big {
+		color: #111;
+		font-size: 38px;
+		font-family: 'Rubik Mono One', sans-serif;
+		font-weight: 500;
+		text-shadow: 4px 4px 9px rgba(117, 65, 214, .4);
+		text-align: center;
+		text-transform: uppercase;
+		display: inline-block;
+	}
+
+	.home-page-content-container {
+		width: 100%;
+		display: flex;
+		justify-content: center;
+		align-content: center;
+		align-items: center;
+		flex-direction: column;
+		background-image: none;
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: 47% 50%;
+		background-size: 100% 100%;
+		padding-bottom: 4%;
+	}
+
+	#player {
+		width: 80% !important;
+		height: 60% !important;
+	}
+	.homepage-alternate-background-color {
+		background-image: url('https://i.imgur.com/AH09luV.png');
+		height: 370px;
+		width: 85%;
+		margin: 0 auto;
+		margin-top: 10%;
+		border-radius: 5px;
+		display: flex;
+		justify-content: center;
+		align-content: center;
+		align-items: center;
+		flex-direction: column;
+	}
+
+	.contact-form-container {
+		width: 63%;
+		margin: 0 auto;
+	}
+
+	.contact-title {
+		color: #71d1bd;
+		font-family: 'Cutive Mono', monospace;
+		font-size: 25px;
+		border-bottom: 2px solid #71d1bd;
+		width: 32%;
+		margin: 0 auto;
+		text-align: center;
+		font-weight: 800;
+	}
+
+
 }
 
 @media screen and (max-width: 480px) {
@@ -1509,6 +1989,64 @@
 		height: 30% !important;
 	}
 
+
+	.theater-info-part {
+		width: 95%;
+	}
+	.training-info-part {
+		width: 95%;
+	}
+	.special-skills-info-part {
+		width: 95%;
+	}
+	.theater-info-part-last {
+		width: 95%;
+	}
+	.training-info-part-last {
+		width: 95%;
+	}
+	.special-skills-info-part-last {
+		width: 95%;
+	}
+
+	.theatre-container {
+		width: 80%;
+	}
+	
+	.tv-container {
+		width: 80%;
+	}
+	
+	.podcasts-container {
+		width: 80%;
+	}
+	
+	.training-container {
+		width: 80%;
+	}
+	.special-skills-container {
+		width: 80%;
+		margin-bottom: 5%;
+	}
+
+	.homepage-img-of-josh {
+		height: 280px;
+		margin-bottom: 5%;
+	}
+	.home-page-main-container {
+		margin-top: 5%;
+	}
+
+	.contact-title {
+		color: #71d1bd;
+		font-family: 'Cutive Mono', monospace;
+		font-size: 25px;
+		border-bottom: 2px solid #71d1bd;
+		width: 35%;
+		margin: 0 auto;
+		text-align: center;
+		font-weight: 800;
+	}
 }
 
 @media screen and (max-width: 435px) {
@@ -1541,7 +2079,7 @@
 	#label {
     display: block;
 		cursor: pointer;
-		margin-top: 10%;
+		margin-top: 5%;
 	}
 	.josh-name-big {
 		color: #111;
@@ -1581,6 +2119,47 @@
 		width: 80% !important;
 		height: 40% !important;
 	}
+
+	.josh-name-big {
+		color: #111;
+		font-size: 38px;
+		font-family: 'Rubik Mono One', sans-serif;
+		font-weight: 500;
+		text-shadow: 4px 4px 9px rgba(117, 65, 214, .4);
+		text-align: center;
+		text-transform: uppercase;
+		display: inline-block;
+	}
+
+	#player {
+		width: 80% !important;
+		height: 55% !important;
+	}
+	.homepage-alternate-background-color {
+		background-image: url('https://i.imgur.com/AH09luV.png');
+		height: 340px;
+		width: 85%;
+		margin: 0 auto;
+		margin-top: 10%;
+		border-radius: 5px;
+		display: flex;
+		justify-content: center;
+		align-content: center;
+		align-items: center;
+		flex-direction: column;
+	}
+
+	.contact-title {
+		color: #71d1bd;
+		font-family: 'Cutive Mono', monospace;
+		font-size: 25px;
+		border-bottom: 2px solid #71d1bd;
+		width: 38%;
+		margin: 0 auto;
+		text-align: center;
+		font-weight: 800;
+	}
+	
 }
 
 @media screen and (max-width: 400px) {
@@ -1624,6 +2203,66 @@
 		text-align: center;
 	}
 
+	.theater-info-part {
+		width: 95%;
+	}
+	.training-info-part {
+		width: 95%;
+	}
+	.special-skills-info-part {
+		width: 95%;
+	}
+	.theater-info-part-last {
+		width: 95%;
+	}
+	.training-info-part-last {
+		width: 95%;
+	}
+	.special-skills-info-part-last {
+		width: 95%;
+	}
+
+	.theatre-container {
+		width: 85%;
+	}
+	.tv-container {
+		width: 85%;
+	}
+	.podcasts-container {
+		width: 85%;
+	}
+	.training-container {
+		width: 85%;
+	}
+	.special-skills-container {
+		width: 85%;
+		margin-bottom: 5%;
+	}
+
+	.homepage-img-of-josh {
+		height: 250px;
+		margin-bottom: 5%;
+	}
+	.home-page-main-container {
+		margin-top: 5%;
+	}
+
+	#label {
+    display: block;
+		cursor: pointer;
+		margin-top: 10%;
+	}
+
+	.contact-title {
+		color: #71d1bd;
+		font-family: 'Cutive Mono', monospace;
+		font-size: 25px;
+		border-bottom: 2px solid #71d1bd;
+		width: 41%;
+		margin: 0 auto;
+		text-align: center;
+		font-weight: 800;
+	}
 }
 
 
@@ -1692,6 +2331,35 @@
 	#player2 {
 		width: 80% !important;
 		height: 25% !important;
+	}
+
+	#player {
+		width: 80% !important;
+		height: 45% !important;
+	}
+	.homepage-alternate-background-color {
+		background-image: url('https://i.imgur.com/AH09luV.png');
+		height: 340px;
+		width: 85%;
+		margin: 0 auto;
+		margin-top: 10%;
+		border-radius: 5px;
+		display: flex;
+		justify-content: center;
+		align-content: center;
+		align-items: center;
+		flex-direction: column;
+	}
+
+	.contact-title {
+		color: #71d1bd;
+		font-family: 'Cutive Mono', monospace;
+		font-size: 25px;
+		border-bottom: 2px solid #71d1bd;
+		width: 45%;
+		margin: 0 auto;
+		text-align: center;
+		font-weight: 800;
 	}
 }
 

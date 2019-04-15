@@ -32,7 +32,7 @@ class Credits extends Component {
           </a>
         </div>
         <ScrollTop
-          text='^'
+          text='top'
           distance={500}
           breakpoint={768}
           style={{  }}

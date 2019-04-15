@@ -9,7 +9,11 @@ class Contact extends Component {
         <p className='contact-title'>Contact me</p>
         <div className='social-container'>
           <ul className='social-icons'>
-            <li className='li-social'><a href='#' className='a-social'><i className='fa fa-instagram' /></a></li>
+            <li className='li-social'>
+              <a href='https://www.instagram.com/josh.michael.gregory/' target='_blank' className='a-social'>
+                <i className='fa fa-instagram' />
+              </a>
+            </li>
             <li className='li-social'><a href='#' className='a-social'><i className='fa fa-linkedin' /></a></li>
             <li className='li-social'><a href='#' className='a-social'><i className='fa fa-facebook' /></a></li>
           </ul>

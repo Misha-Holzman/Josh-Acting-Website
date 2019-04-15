@@ -39,7 +39,7 @@ input[type=submit]:hover {
   font-family: 'Cutive Mono', monospace;
   font-size: 25px;
   border-bottom: 2px solid #71d1bd;
-  width: 12%;
+  width: 13%;
   margin: 0 auto;
   text-align: center;
   font-weight: 800;
@@ -107,7 +107,7 @@ input[type=submit]:hover {
   -ms-transform: scale(2.1);
   -webkit-transform: scale(2.1);
   color: #70d1bd;
-  background: -webkit-linear-gradient(45deg, #00B5F5, #70d1bd );
+  background: -webkit-linear-gradient(45deg, #2dc7ff, #70d1bd );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   transition: all 265ms ease-in;
