@@ -2092,7 +2092,7 @@
 		font-family: 'Cutive Mono', monospace;
 		font-size: 25px;
 		border-bottom: 2px solid #71d1bd;
-		width: 41%;
+		width: 42%;
 		margin: 0 auto;
 		text-align: center;
 		font-weight: 800;
@@ -2117,7 +2117,7 @@
 		font-family: 'Cutive Mono', monospace;
 		font-size: 25px;
 		border-bottom: 2px solid #71d1bd;
-		width: 43%;
+		width: 44%;
 		margin: 0 auto;
 		text-align: center;
 		font-weight: 800;
@@ -2196,16 +2196,6 @@
 		flex-direction: column;
 	}
 
-	.contact-title {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
-		font-size: 25px;
-		border-bottom: 2px solid #71d1bd;
-		width: 45%;
-		margin: 0 auto;
-		text-align: center;
-		font-weight: 800;
-	}
 	.social-container {
 		width: 300px;
 		margin: 0 auto;
@@ -2258,7 +2248,7 @@
 		font-family: 'Cutive Mono', monospace;
 		font-size: 25px;
 		border-bottom: 2px solid #71d1bd;
-		width: 51%;
+		width: 52%;
 		margin: 0 auto;
 		text-align: center;
 		font-weight: 800;
@@ -2274,7 +2264,7 @@
 		font-family: 'Cutive Mono', monospace;
 		font-size: 25px;
 		border-bottom: 2px solid #71d1bd;
-		width: 53%;
+		width: 54%;
 		margin: 0 auto;
 		text-align: center;
 		font-weight: 800;
@@ -2290,7 +2280,7 @@
 		font-family: 'Cutive Mono', monospace;
 		font-size: 25px;
 		border-bottom: 2px solid #71d1bd;
-		width: 55%;
+		width: 56%;
 		margin: 0 auto;
 		text-align: center;
 		font-weight: 800;
