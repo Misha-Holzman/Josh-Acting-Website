@@ -14,7 +14,7 @@ class Images extends Component {
           <img className='images-tab-imgs-of-josh' src='https://i.imgur.com/SmbNA2A.jpg' />
           <img className='images-tab-imgs-of-josh' src='https://i.imgur.com/iYHMwjD.jpg' />
           <img className='images-tab-imgs-of-josh' src='https://i.imgur.com/qK5ffQj.jpg' />
-          <img className='images-tab-imgs-of-josh' src='https://i.imgur.com/lBcgmUl.jpg' />
+          <img className='images-tab-imgs-of-josh' id='images-tab-imgs-of-josh-last' src='https://i.imgur.com/lBcgmUl.jpg' />
         </div>
         <div className='headshots-credit-div'>
           <h6 className='headshots-giving-credit-text'>Headshots by <a href='http://www.davidnoles.com/' target='_blank' className='link-to-headshot-guy'>David Noles Photography</a></ h6>
