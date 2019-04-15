@@ -33,12 +33,13 @@
 
 .media-header-text {
   font-family: 'Cutive Mono', monospace;
-  font-weight: 200;
-  font-size: 35px;
+  font-weight: 600;
+  font-size: 40px;
   width: 8.5%;
   margin: 0 auto;
   padding-top: 5%;
   text-align: center;
+  color: black;
 }
 
 .media-tab-imgs-of-josh:hover {

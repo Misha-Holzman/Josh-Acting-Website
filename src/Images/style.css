@@ -23,13 +23,13 @@
 
 .headshots-header-text {
   font-family: 'Cutive Mono', monospace;
-  font-weight: 200;
+  color: black;
+  font-weight: 500;
   font-size: 35px;
-  border-bottom: 1px solid black;
   width: 15%;
   text-align: center;
-  margin-top: 5%;
-  margin-bottom: 5%;
+  padding-top: 1%;
+  margin-bottom: 7%;
 }
 
 .images-tab-imgs-of-josh:hover {
