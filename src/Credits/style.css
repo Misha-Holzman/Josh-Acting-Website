@@ -487,15 +487,15 @@
 
 
 .scroll-your-role {
-  background-color: #71d1bd;
-  font-family: 'Cutive Mono', monospace;
-  border-radius: 100%;
-  width: 45px;
-  padding: 8px 5px 10px 3px;
-  font-size: 20px;
-  font-weight: 200;
+  background-color: #71d1bd !important;
+  font-family: 'Cutive Mono', monospace !important;
+  border-radius: 100% !important; 
+  width: 45px !important;
+  padding: 8px 5px 10px 3px !important;
+  font-size: 20px !important;
+  font-weight: 200 !important;
   /* -webkit-box-shadow: 8px 8px 29px -5px rgba(0,0,0,0.48);
   -moz-box-shadow: 8px 8px 29px -5px rgba(0,0,0,0.48);
   box-shadow: 8px 8px 29px -5px rgba(0,0,0,0.48); */
-  border: 1px solid black;
+  border: 1px solid black !important;
 }
