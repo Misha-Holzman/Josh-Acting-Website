@@ -37,6 +37,7 @@ class Credits extends Component {
           breakpoint={768}
           style={{  }}
           className='scroll-your-role'
+          id='scroll-your-role-id'
           speed={600}
           target={0}
           // icon={<MyIcon />}

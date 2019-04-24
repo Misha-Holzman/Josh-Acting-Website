@@ -1434,7 +1434,7 @@
 
 
 @media screen and (max-width: 747px) {
-	.scroll-your-role {
+	#scroll-your-role-id {
 		background-color: #71d1bd;
 		font-family: 'Cutive Mono', monospace;
 		border-radius: 100%;
