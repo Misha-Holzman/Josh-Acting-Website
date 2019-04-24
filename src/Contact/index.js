@@ -14,7 +14,7 @@ class Contact extends Component {
                 <i className='fa fa-instagram' />
               </a>
             </li>
-            <li className='li-social'><a href='#' className='a-social'><i className='fa fa-facebook' /></a></li>
+            <li className='li-social'><a href='https://www.facebook.com/joshua.gregory.144' className='a-social'><i className='fa fa-facebook' /></a></li>
           </ul>
         </div>
         <p className='contact-description'>
