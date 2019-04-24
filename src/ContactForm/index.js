@@ -1,9 +1,6 @@
 import React, { Component } from 'react'
 import './style.css'
 
-// import Field from '../Field'
-// import Button from '../Button'
-
 class ContactForm extends Component {
   render () {
     return (

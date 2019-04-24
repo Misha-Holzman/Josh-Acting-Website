@@ -1,10 +1,6 @@
-
 /* ––––––––– Media Queries –––––––– */
 
-/* Large screens ----------- */
-
 @media only screen  and (min-width : 1800px) {
-	
 	.nav-ul-container-left {
     display: flex;
     flex-direction: row;
@@ -1442,19 +1438,11 @@
 		padding: 2px 13px 2px 0px;
 		font-size: 20px;
 		font-weight: 200;
-		/* -webkit-box-shadow: 8px 8px 29px -5px rgba(0,0,0,0.48);
-		-moz-box-shadow: 8px 8px 29px -5px rgba(0,0,0,0.48);
-		box-shadow: 8px 8px 29px -5px rgba(0,0,0,0.48); */
 		border: 1px solid black;
 	}
-
-
-
 }
 
-
 @media screen and (max-width: 725px) {
-
 	.members-equity-logo {
   	height: 25px;
 		padding-left: 0%;
@@ -1491,7 +1479,6 @@
 		text-align: center;
 		font-weight: 800;
 	}
-	
 }
 
 
@@ -1499,7 +1486,6 @@
 	.homepage-img-of-josh {
 		height: 320px;
 		border-radius: 4px;
-		/* padding-right: 20%; */
 		-webkit-box-shadow: 6px 6px 52px -1px rgb(113,209,189);
 		-moz-box-shadow: 6px 6px 52px -1px rgb(113,209,189);
 		box-shadow: 6px 6px 52px -1px rgb(113,209,189);
@@ -1520,6 +1506,7 @@
 		display: flex;
 		justify-content: center;
 	}
+
 	.headshots-header-text {
 		width: 28%;
 	}
@@ -1666,6 +1653,7 @@
 		display: flex;
 		justify-content: center;
 	}
+
 	.headshots-header-text {
 		width: 38%;
 	}

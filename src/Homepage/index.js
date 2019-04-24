@@ -8,7 +8,6 @@ class Homepage extends Component {
       <div className='home-page-main-container'>
         <div className='home-page-content-container'>
           <img className='homepage-img-of-josh' src='https://i.imgur.com/NDw5Fzd.jpg' />
-
         </div>
         <a href='#real-jump-link' id='arrow-link'>
           <img

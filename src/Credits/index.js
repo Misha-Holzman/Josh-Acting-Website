@@ -8,7 +8,6 @@ class Credits extends Component {
       <div className='credits-main-container'>
         <div className='credits-top-part-container'>
           <h2 className='credits-main-title'>Credits</h2>
-          {/* <h4 className='jump-to-text'>Jump to:</h4> */}
           <ul className='credits-links-ul'>
             <li className='credits-link-li'><a href='#theatre' className='credits-link link'>Theatre</a></li>
             <li className='credits-link-li'><a href='#tv' className='credits-link link'>Television / Film</a></li>
@@ -40,7 +39,6 @@ class Credits extends Component {
           id='scroll-your-role-id'
           speed={600}
           target={0}
-          // icon={<MyIcon />}
         />
 
         <div className='credits-info-container'>

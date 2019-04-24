@@ -22,7 +22,6 @@
   padding-bottom: 4%;
 }
 
-
 .homepage-img-of-josh {
   height: 500px;
   border-radius: 4px;
@@ -59,13 +58,6 @@
   margin-bottom: 3%;
 }
 
-
-
-
-
-
-
-
 #arrow-link {
   text-decoration: none;
   margin: 0 auto;
@@ -76,14 +68,6 @@
   -webkit-animation: shake-vertical 18s cubic-bezier(0.455, 0.030, 0.515, 0.955) infinite both;
   animation: shake-vertical 18s cubic-bezier(0.455, 0.030, 0.515, 0.955) infinite both;
 }
-
-/*.arrow-text {
-  margin-top: 21%;
-  font-family: "Lekton", sans-serif;
-  position: absolute;
-  -webkit-animation: shake-vertical 13.9s cubic-bezier(0.455, 0.030, 0.515, 0.955) infinite both;
-  animation: shake-vertical 13.9s cubic-bezier(0.455, 0.030, 0.515, 0.955) infinite both;
-}*/
 
 
 @-webkit-keyframes shake-vertical {

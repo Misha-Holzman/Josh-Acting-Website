@@ -12,7 +12,6 @@
   margin: 0 auto;
 }
 
-
 .media-tab-imgs-of-josh {
   height: 300px;
   margin: 0% 3% 10% 3%;
@@ -48,82 +47,3 @@
 .media-tab-imgs-of-josh-small:hover {
   transform: scale(1.7);
 }
-
-
-
-
-
-
-
-
-
-
-/* 
-.media-giving-credit-text {
-  text-decoration: none;
-  color: black;
-  font-family: 'Cutive Mono', monospace;
-  font-size: 18px;
-  font-weight: 600;
-  line-height: 1.6;
-}
-
-.media-credit-div {
-  display: flex;
-  justify-content: center;
-  align-items: flex-end;
-  width: 100%;
-}
-
-.media-giving-credit-text {
-  -webkit-transform: translate(-51%, -50%);
-  -moz-transform: translate(-51%, -50%);
-  -ms-transform: translate(-51%, -50%);
-  -o-transform: translate(-51%, -50%);
-  transform: translate(-51%, -50%);
-  /* max-width: 400px;
-  width: 100%;
-  transform-origin: center;
-  animation: loadBounce 0.2s ease-in-out forwards;
-  margin-right: -31%;
-  margin-top: -1%;
-}
- 
-.media-giving-credit-text .link-to-headshot-guy {
-  transition: all .3s linear;
-  display: inline;
-  font-size: 18px;
-  line-height: 45px;
-  color: black;
-  text-decoration: none;
-  text-transform: uppercase;
-  padding-bottom: 5px;
-  background: linear-gradient(to right, #00d1b1 0%, #278fc6 98%);
-  background-size: 0px 2px;
-  background-repeat: no-repeat;
-  background-position: left 85%;
-  text-shadow: 0;
-}
-
-.media-giving-credit-text .link-to-headshot-guy:hover {
-  background-size: 100% 2px;
-  text-shadow: 0 2.5px 4px rgba(0, 0, 0, 0.5);
-}
-
-@keyframes loadBounce {
-  0% {
-    transform: translate(-50%, -50%) scale(0);
-  }
-  40% {
-    transform: translate(-50%, -50%) scale(1.2);
-  }
-  60% {
-    transform: translate(-50%, -50%) scale(1);
-  }
-  80% {
-    transform: translate(-50%, -50%) scale(1.1);
-  }
-  100% {
-    transform: translate(-50%, -50%) scale(1);
-  }
-} */

@@ -4,20 +4,11 @@ body {
   overflow-x: hidden;
 }
 
-
 .nav-container {
   display: flex;
   flex-direction: column;
   justify-content: center;
 }
-
-/* .all-nav-items {
-  display: flex;
-  flex-direction: row;
-  align-content: center;
-  justify-content: center;
-  align-items: center;
-} */
 
 .nav-bullets-div {
   display: flex;
@@ -115,21 +106,6 @@ body {
   width: 100%;
 }
 
-@media (max-width: 525px) {
-  .josh-name-big {
-    /* font-size: 42px; 
-    FIX 
-    */
-  }
-}
-@media (min-width: 937.5px) {
-  .josh-name-big {
-    /* font-size: 75px; 
-    FIX
-    */
-  }
-}
-
 .u-shadow {
   text-shadow: 4px 4px 0 #6fd1bd;
   transition: text-shadow 0.2s ease-in-out;
@@ -138,26 +114,12 @@ body {
   text-shadow: -4px -4px 0 salmon;
 }
 
-
-
-
 .nav-flex {
   display: flex;
   flex-direction: row;
   align-content: center;
   justify-content: center;
   align-items: center; 
-}
-
-
-
-/* 
-.link-1 .nav-li-link:before, .link-1 .nav-li-link:after {
-  content: '';
-  border-bottom: solid 2px black;
-  position: absolute;
-  bottom: 0;
-  width: 0;
 }
 
 .link-1 .nav-li-link:before { left: 0; }
@@ -192,15 +154,7 @@ body {
   }
 }
 
-
-
-
-
-
-/* –––––––––––––––––––––––––– */
 /* hamburger menu */
-
-
 .ham-div {
   text-align: center;
 }
@@ -221,14 +175,12 @@ body {
 
 @media only screen and (max-width: 955px) {
   /* Large Desktop */
-
   .nav-ul-container-left {
     display: none !important;
   }
   .nav-ul-container-right {
     display: none !important;
   }
-
 
   #label {
     display: block;
@@ -283,17 +235,10 @@ body {
     list-style: none;
   }
 
-  /* #toggle[type=checkbox] + .hidden-nav-bullets-div {
-    text-align: center;
-    width: 100%;
-    height: auto;
-  } */
-
   #toggle[type=checkbox]:checked + .hidden-nav-container {
     display: block;
     text-align: center;
   }
-
 
   .home-page-main-container {
     margin-top: 1%;

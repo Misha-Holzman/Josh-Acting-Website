@@ -16,16 +16,9 @@ class Media extends Component {
           <img className='media-tab-imgs-of-josh-small' src='https://i.imgur.com/4JOJysG.png' />
           <img className='media-tab-imgs-of-josh' src='https://i.imgur.com/CuUDmBc.png' />
         </div>
-        {/* <div className='Media-credit-div'>
-          <h6 className='Media-giving-credit-text'>Media by <a href='http://www.davidnoles.com/' target='_blank' className='link-to-headshot-guy'>David Noles Photography</a></ h6>
-        </div> */}
       </div>
     )
   }
 }
 
 export default Media
-
-
-// https://www.imdb.com/name/nm9801389/?ref_=nv_sr_1
-// imdb link ^

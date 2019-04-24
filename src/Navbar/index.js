@@ -40,7 +40,6 @@ class Navbar extends Component {
       <Router>
         <div className='nav-container'>
           <div className='all-nav-items'>
-
             <div className='nav-bullets-div'>
               <ul className='nav-ul-container-left topBotomBordersOut'>
                 <li className='nav-li-item'>
@@ -71,7 +70,6 @@ class Navbar extends Component {
                 </li>
               </ul>
             </div>
-
             <div className='ham-div'>
               <label for='toggle' id='label'>&#9776;</label>
               <input
@@ -82,7 +80,6 @@ class Navbar extends Component {
                 onClick={
                   this.state.isChecked ? true : this.handleUncheck
                 } />
-
               <div className='hidden-nav-container'>
                 <div className='hidden-nav-bullets-div'>
                   <ul className='hidden-nav-ul-container-left topBotomBordersOut'>

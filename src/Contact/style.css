@@ -1,4 +1,4 @@
-
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
 
 input[type=text],input[type=email], select, textarea {
     width: 100%;
@@ -52,11 +52,6 @@ input[type=submit]:hover {
   text-align: center;
   margin-bottom: 2%;
 }
-
-
-
-@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
-
 
 .social-container {
   width: 400px;
