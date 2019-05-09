@@ -7,13 +7,14 @@ class Homepage extends Component {
     return (
       <div className='home-page-main-container'>
         <div className='home-page-content-container'>
-          <img className='homepage-img-of-josh' src='https://i.imgur.com/NDw5Fzd.jpg' />
+          <img className='homepage-img-of-josh' src='https://i.imgur.com/NDw5Fzd.jpg' alt='' />
         </div>
         <a href='#real-jump-link' id='arrow-link'>
           <img
             src='https://i.imgur.com/T5f8v9i.png'
             height='30px'
             className='arrow'
+            alt=''
           />
         </a>
         <div className='homepage-alternate-background-color'>

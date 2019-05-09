@@ -8,7 +8,7 @@ class About extends Component {
         <h3 className='about-title-text'>About me</h3>
         <div className='about-text-main-container'>
           <div className='about-img-container'>
-            <img className='about-city-country-img' src='https://i.imgur.com/hrwePnK.png' />
+            <img className='about-city-country-img' src='https://i.imgur.com/hrwePnK.png' alt='' />
           </div>
           <div className='about-text-container'>
             <p className='about-me-text'>
@@ -34,5 +34,3 @@ class About extends Component {
 }
 
 export default About
-
-// https://i.imgur.com/hrwePnK.png
