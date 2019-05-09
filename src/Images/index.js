@@ -22,6 +22,6 @@ class Images extends Component {
       </div>
     )
   }
-}alt='' 
+}
 
 export default Images
