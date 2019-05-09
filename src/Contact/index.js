@@ -10,11 +10,15 @@ class Contact extends Component {
         <div className='social-container'>
           <ul className='social-icons'>
             <li className='li-social'>
-              <a href='https://www.instagram.com/josh.michael.gregory/' target='_blank' className='a-social'>
+              <a href='https://www.instagram.com/josh.michael.gregory/' target='_blank' className='a-social' rel='noopener' >
                 <i className='fa fa-instagram' />
               </a>
             </li>
-            <li className='li-social'><a href='https://www.facebook.com/joshua.gregory.144' className='a-social'><i className='fa fa-facebook' /></a></li>
+            <li className='li-social'>
+              <a href='https://www.facebook.com/joshua.gregory.144' target='_blank' className='a-social' rel='noopener' >
+                <i className='fa fa-facebook' />
+              </a>
+            </li>
           </ul>
         </div>
         <p className='contact-description'>
@@ -29,5 +33,3 @@ class Contact extends Component {
 }
 
 export default Contact
-
-// Ikon Images / Alamy Stock Photo
