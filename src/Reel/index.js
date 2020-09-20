@@ -8,7 +8,15 @@ class Reel extends Component {
       <div className='reel-main-container'>
         <div className='reel-content-container-div'>
           <h3 className='reel-title' id='real-jump-link'>Reel</h3>
-          <ReactPlayer url='https://vimeo.com/318350985' id='player2' />
+          <iframe
+            src='https://player.vimeo.com/video/285012728'
+            width='640'
+            height='360'
+            frameborder='0'
+            allow='autoplay; fullscreen'
+            allowfullscreen 
+            className='reel-video'
+          />
         </div>
       </div>
     )

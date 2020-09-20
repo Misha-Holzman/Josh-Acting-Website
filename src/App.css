@@ -22,6 +22,7 @@
     width: 25%;
     margin-right: 7%;
 	}
+	
   .nav-li-item {
     list-style: none;
     margin-left: 14%;
@@ -80,13 +81,9 @@
 	}
 
 	.about-title-text {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
 		width: 11%;
 		margin: 0 auto;
 		text-align: center;
-		font-weight: 800;
-		font-size: 35px;
 		margin-bottom: 6%;
 		padding-top: 3%;
 		display: flex;
@@ -115,9 +112,6 @@
 	}
 
 	.media-header-text {
-		font-family: 'Cutive Mono', monospace;
-		font-weight: 800;
-		font-size: 40px;
 		color: #70d1bd;
 		width: 8%;
 		margin: 0 auto;
@@ -140,11 +134,10 @@
 	}
 
 	.contact-title {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
+	  color: #000000;
+    font-family: 'Montserrat', sans-serif;
 		font-size: 25px;
-		border-bottom: 2px solid #71d1bd;
-		width: 9%;
+		width: 15%;
 		margin: 0 auto;
 		text-align: center;
 		font-weight: 800;
@@ -194,13 +187,9 @@
 	}
 
 	.about-title-text {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
 		width: 12%;
 		margin: 0 auto;
 		text-align: center;
-		font-weight: 800;
-		font-size: 35px;
 		margin-bottom: 6%;
 		padding-top: 3%;
 		display: flex;
@@ -218,9 +207,6 @@
 	}
 
 	.media-header-text {
-		font-family: 'Cutive Mono', monospace;
-		font-weight: 500;
-		font-size: 37px;
 		color: black;
 		width: 8%;
 		margin: 0 auto;
@@ -243,11 +229,10 @@
 	}
 
 	.contact-title {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
+	  color: #000000;
+    font-family: 'Montserrat', sans-serif;
 		font-size: 25px;
-		border-bottom: 2px solid #71d1bd;
-		width: 10%;
+		width: 115%;
 		margin: 0 auto;
 		text-align: center;
 		font-weight: 800;
@@ -299,13 +284,9 @@
 	}
 
 	.about-title-text {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
-		width: 11%;
+		width: 14%;
 		margin: 0 auto;
 		text-align: center;
-		font-weight: 800;
-		font-size: 35px;
 		margin-bottom: 6%;
 		padding-top: 3%;
 		display: flex;
@@ -322,11 +303,10 @@
 	}
 
 	.contact-title {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
+	  color: #000000;
+    font-family: 'Montserrat', sans-serif;
 		font-size: 25px;
-		border-bottom: 2px solid #71d1bd;
-		width: 10%;
+		width: 115%;
 		margin: 0 auto;
 		text-align: center;
 		font-weight: 800;
@@ -381,9 +361,6 @@
 
 		
 	.media-header-text {
-		font-family: 'Cutive Mono', monospace;
-		font-weight: 500;
-		font-size: 37px;
 		color: black;
 		width: 8%;
 		margin: 0 auto;
@@ -435,13 +412,9 @@
 	}
 
 	.about-title-text {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
-		width: 13%;
+		width: 20%;
 		margin: 0 auto;
 		text-align: center;
-		font-weight: 800;
-		font-size: 35px;
 		margin-bottom: 6%;
 		padding-top: 3%;
 		display: flex;
@@ -541,11 +514,10 @@
 	}
 
 	.contact-title {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
+	  color: #000000;
+    font-family: 'Montserrat', sans-serif;
 		font-size: 25px;
-		border-bottom: 2px solid #71d1bd;
-		width: 11%;
+		width: 115%;
 		margin: 0 auto;
 		text-align: center;
 		font-weight: 800;
@@ -596,9 +568,6 @@
 
 		
 	.media-header-text {
-		font-family: 'Cutive Mono', monospace;
-		font-weight: 500;
-		font-size: 37px;
 		color: black;
 		width: 9%;
 		margin: 0 auto;
@@ -699,11 +668,10 @@
 	}
 
 	.contact-title {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
+	  color: #000000;
+    font-family: 'Montserrat', sans-serif;
 		font-size: 25px;
-		border-bottom: 2px solid #71d1bd;
-		width: 12%;
+		width: 115%;
 		margin: 0 auto;
 		text-align: center;
 		font-weight: 800;
@@ -755,13 +723,9 @@
 	}
 
 	.about-title-text {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
-		width: 14%;
+		width: 20%;
 		margin: 0 auto;
 		text-align: center;
-		font-weight: 800;
-		font-size: 35px;
 		margin-bottom: 6%;
 		padding-top: 3%;
 		display: flex;
@@ -819,9 +783,6 @@
 	}
 
 	.media-header-text {
-		font-family: 'Cutive Mono', monospace;
-		font-weight: 500;
-		font-size: 37px;
 		color: black;
 		width: 10%;
 		margin: 0 auto;
@@ -879,11 +840,10 @@
 	}
 
 	.contact-title {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
+	  color: #000000;
+    font-family: 'Montserrat', sans-serif;
 		font-size: 25px;
-		border-bottom: 2px solid #71d1bd;
-		width: 13%;
+		width: 115%;
 		margin: 0 auto;
 		text-align: center;
 		font-weight: 800;
@@ -915,13 +875,9 @@
 	}
 
 	.about-title-text {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
-		width: 15%;
+		width: 20%;
 		margin: 0 auto;
 		text-align: center;
-		font-weight: 800;
-		font-size: 35px;
 		margin-bottom: 6%;
 		padding-top: 3%;
 		display: flex;
@@ -966,11 +922,10 @@
 	}
 	
 	.contact-title {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
+	  color: #000000;
+    font-family: 'Montserrat', sans-serif;
 		font-size: 25px;
-		border-bottom: 2px solid #71d1bd;
-		width: 14%;
+		width: 115%;
 		margin: 0 auto;
 		text-align: center;
 		font-weight: 800;
@@ -1000,13 +955,9 @@
 		margin-left: 5%;
 	}
 	.about-title-text {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
-		width: 16%;
+		width: 20%;
 		margin: 0 auto;
 		text-align: center;
-		font-weight: 800;
-		font-size: 35px;
 		margin-bottom: 6%;
 		padding-top: 3%;
 		display: flex;
@@ -1014,13 +965,9 @@
 	}
 
 	.about-title-text {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
-		width: 17%;
+		width: 20%;
 		margin: 0 auto;
 		text-align: center;
-		font-weight: 800;
-		font-size: 35px;
 		margin-bottom: 6%;
 		padding-top: 3%;
 		display: flex;
@@ -1031,9 +978,6 @@
 	}
 		
 	.media-header-text {
-		font-family: 'Cutive Mono', monospace;
-		font-weight: 500;
-		font-size: 37px;
 		color: black;
 		width: 11%;
 		margin: 0 auto;
@@ -1062,11 +1006,10 @@
 
 
 	.contact-title {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
+	  color: #000000;
+    font-family: 'Montserrat', sans-serif;
 		font-size: 25px;
-		border-bottom: 2px solid #71d1bd;
-		width: 14.5%;
+		width: 14.15%;
 		margin: 0 auto;
 		text-align: center;
 		font-weight: 800;
@@ -1099,13 +1042,9 @@
 	}
 
 	.about-title-text {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
 		width: 20%;
 		margin: 0 auto;
 		text-align: center;
-		font-weight: 800;
-		font-size: 35px;
 		margin-bottom: 6%;
 		padding-top: 3%;
 		display: flex;
@@ -1117,9 +1056,6 @@
 	}
 		
 	.media-header-text {
-		font-family: 'Cutive Mono', monospace;
-		font-weight: 500;
-		font-size: 37px;
 		color: black;
 		width: 12%;
 		margin: 0 auto;
@@ -1133,11 +1069,10 @@
 	}
 
 	.contact-title {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
+	  color: #000000;
+    font-family: 'Montserrat', sans-serif;
 		font-size: 25px;
-		border-bottom: 2px solid #71d1bd;
-		width: 16%;
+		width: 115%;
 		margin: 0 auto;
 		text-align: center;
 		font-weight: 800;
@@ -1179,11 +1114,10 @@
 
 
 	.contact-title {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
+	  color: #000000;
+    font-family: 'Montserrat', sans-serif;
 		font-size: 25px;
-		border-bottom: 2px solid #71d1bd;
-		width: 17%;
+		width: 115%;
 		margin: 0 auto;
 		text-align: center;
 		font-weight: 800;
@@ -1232,9 +1166,6 @@
 	}
 		
 	.media-header-text {
-		font-family: 'Cutive Mono', monospace;
-		font-weight: 500;
-		font-size: 37px;
 		color: black;
 		width: 14%;
 		margin: 0 auto;
@@ -1248,11 +1179,10 @@
 
 
 	.contact-title {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
+	  color: #000000;
+    font-family: 'Montserrat', sans-serif;
 		font-size: 25px;
-		border-bottom: 2px solid #71d1bd;
-		width: 18%;
+		width: 115%;
 		margin: 0 auto;
 		text-align: center;
 		font-weight: 800;
@@ -1272,13 +1202,9 @@
 
 
 	.about-title-text {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
 		width: 22%;
 		margin: 0 auto;
 		text-align: center;
-		font-weight: 800;
-		font-size: 35px;
 		margin-bottom: 6%;
 		padding-top: 3%;
 		display: flex;
@@ -1321,11 +1247,10 @@
 
 
 	.contact-title {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
+	  color: #000000;
+    font-family: 'Montserrat', sans-serif;
 		font-size: 25px;
-		border-bottom: 2px solid #71d1bd;
-		width: 20%;
+		width: 215%;
 		margin: 0 auto;
 		text-align: center;
 		font-weight: 800;
@@ -1356,13 +1281,9 @@
 		margin-bottom: .5%;
 	}
 	.about-title-text {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
 		width: 24%;
 		margin: 0 auto;
 		text-align: center;
-		font-weight: 800;
-		font-size: 35px;
 		margin-bottom: 6%;
 		padding-top: 3%;
 		display: flex;
@@ -1379,9 +1300,6 @@
 
 		
 	.media-header-text {
-		font-family: 'Cutive Mono', monospace;
-		font-weight: 500;
-		font-size: 37px;
 		color: black;
 		width: 16%;
 		margin: 0 auto;
@@ -1412,11 +1330,10 @@
 	
 
 	.contact-title {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
+	  color: #000000;
+    font-family: 'Montserrat', sans-serif;
 		font-size: 25px;
-		border-bottom: 2px solid #71d1bd;
-		width: 21%;
+		width: 215%;
 		margin: 0 auto;
 		text-align: center;
 		font-weight: 800;
@@ -1470,11 +1387,10 @@
 	}
 
 	.contact-title {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
+	  color: #000000;
+    font-family: 'Montserrat', sans-serif;
 		font-size: 25px;
-		border-bottom: 2px solid #71d1bd;
-		width: 23%;
+		width: 215%;
 		margin: 0 auto;
 		text-align: center;
 		font-weight: 800;
@@ -1494,13 +1410,9 @@
 	}
 
 		.about-title-text {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
 		width: 26%;
 		margin: 0 auto;
 		text-align: center;
-		font-weight: 800;
-		font-size: 35px;
 		margin-bottom: 6%;
 		padding-top: 3%;
 		display: flex;
@@ -1526,13 +1438,9 @@
 @media screen and (max-width: 667px) {
   /* mobile */
 	.about-title-text {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
 		width: 31%;
 		margin: 0 auto;
 		text-align: center;
-		font-weight: 800;
-		font-size: 35px;
 		margin-bottom: 6%;
 		padding-top: 3%;
 		display: flex;
@@ -1545,9 +1453,6 @@
 	}
 
 	.media-header-text {
-		font-family: 'Cutive Mono', monospace;
-		font-weight: 500;
-		font-size: 37px;
 		color: black;
 		width: 19%;
 		margin: 0 auto;
@@ -1627,11 +1532,10 @@
 	}
 
 	.contact-title {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
+	  color: #000000;
+    font-family: 'Montserrat', sans-serif;
 		font-size: 25px;
-		border-bottom: 2px solid #71d1bd;
-		width: 28%;
+		width: 215%;
 		margin: 0 auto;
 		text-align: center;
 		font-weight: 800;
@@ -1641,13 +1545,9 @@
 @media screen and (max-width: 535px) {
   /* mobile */
 	.about-title-text {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
 		width: 34%;
 		margin: 0 auto;
 		text-align: center;
-		font-weight: 800;
-		font-size: 35px;
 		margin-bottom: 6%;
 		padding-top: 3%;
 		display: flex;
@@ -1677,9 +1577,6 @@
 	}
 	
 	.media-header-text {
-		font-family: 'Cutive Mono', monospace;
-		font-weight: 500;
-		font-size: 37px;
 		color: black;
 		width: 23%;
 		margin: 0 auto;
@@ -1761,11 +1658,10 @@
 	}
 
 	.contact-title {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
+	  color: #000000;
+    font-family: 'Montserrat', sans-serif;
 		font-size: 25px;
-		border-bottom: 2px solid #71d1bd;
-		width: 32%;
+		width: 315%;
 		margin: 0 auto;
 		text-align: center;
 		font-weight: 800;
@@ -1777,13 +1673,10 @@
 @media screen and (max-width: 480px) {
   /* mobile */
 	.about-title-text {
-		color: #71d1bd;
 		font-family: 'Cutive Mono', monospace;
 		width: 39%;
 		margin: 0 auto;
 		text-align: center;
-		font-weight: 800;
-		font-size: 35px;
 		margin-bottom: 6%;
 		padding-top: 3%;
 		display: flex;
@@ -1805,9 +1698,6 @@
 	}
 
 	.media-header-text {
-		font-family: 'Cutive Mono', monospace;
-		font-weight: 500;
-		font-size: 37px;
 		color: black;
 		width: 26%;
 		margin: 0 auto;
@@ -1869,11 +1759,10 @@
 	}
 
 	.contact-title {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
+	  color: #000000;
+    font-family: 'Montserrat', sans-serif;
 		font-size: 25px;
-		border-bottom: 2px solid #71d1bd;
-		width: 35%;
+		width: 315%;
 		margin: 0 auto;
 		text-align: center;
 		font-weight: 800;
@@ -1890,13 +1779,9 @@
 @media screen and (max-width: 435px) {
   /* mobile */
 	.about-title-text {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
 		width: 43%;
 		margin: 0 auto;
 		text-align: center;
-		font-weight: 800;
-		font-size: 35px;
 		margin-bottom: 6%;
 		padding-top: 3%;
 		display: flex;
@@ -1980,11 +1865,10 @@
 	}
 
 	.contact-title {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
+	  color: #000000;
+    font-family: 'Montserrat', sans-serif;
 		font-size: 25px;
-		border-bottom: 2px solid #71d1bd;
-		width: 38%;
+		width: 315%;
 		margin: 0 auto;
 		text-align: center;
 		font-weight: 800;
@@ -1995,13 +1879,9 @@
 @media screen and (max-width: 400px) {
   /* mobile */
 	.about-title-text {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
 		width: 47%;
 		margin: 0 auto;
 		text-align: center;
-		font-weight: 800;
-		font-size: 35px;
 		margin-bottom: 6%;
 		padding-top: 3%;
 		display: flex;
@@ -2015,9 +1895,6 @@
 
 		
 	.media-header-text {
-		font-family: 'Cutive Mono', monospace;
-		font-weight: 500;
-		font-size: 37px;
 		color: black;
 		width: 29%;
 		margin: 0 auto;
@@ -2076,11 +1953,10 @@
 	}
 
 	.contact-title {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
+	  color: #000000;
+    font-family: 'Montserrat', sans-serif;
 		font-size: 25px;
-		border-bottom: 2px solid #71d1bd;
-		width: 42%;
+		width: 415%;
 		margin: 0 auto;
 		text-align: center;
 		font-weight: 800;
@@ -2101,11 +1977,10 @@
 		padding-top: 1%;
 	}
 	.contact-title {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
+	  color: #000000;
+    font-family: 'Montserrat', sans-serif;
 		font-size: 25px;
-		border-bottom: 2px solid #71d1bd;
-		width: 44%;
+		width: 415%;
 		margin: 0 auto;
 		text-align: center;
 		font-weight: 800;
@@ -2115,13 +1990,9 @@
 @media screen and (max-width: 370px) {
   /* mobile */
 	.about-title-text {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
 		width: 52%;
 		margin: 0 auto;
 		text-align: center;
-		font-weight: 800;
-		font-size: 35px;
 		margin-bottom: 6%;
 		padding-top: 3%;
 		display: flex;
@@ -2151,9 +2022,6 @@
 	}
 		
 	.media-header-text {
-		font-family: 'Cutive Mono', monospace;
-		font-weight: 500;
-		font-size: 37px;
 		color: black;
 		width: 31%;
 		margin: 0 auto;
@@ -2192,11 +2060,10 @@
 	}
 
 	.contact-title {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
+	  color: #000000;
+    font-family: 'Montserrat', sans-serif;
 		font-size: 25px;
-		border-bottom: 2px solid #71d1bd;
-		width: 46.5%;
+		width: 46.15%;
 		margin: 0 auto;
 		text-align: center;
 		font-weight: 800;
@@ -2206,13 +2073,9 @@
 @media screen and (max-width: 326px) {
   /* mobile */
 	.about-title-text {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
 		width: 54%;
 		margin: 0 auto;
 		text-align: center;
-		font-weight: 800;
-		font-size: 35px;
 		margin-bottom: 6%;
 		padding-top: 3%;
 		display: flex;
@@ -2232,11 +2095,10 @@
 	}
 
 	.contact-title {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
+	  color: #000000;
+    font-family: 'Montserrat', sans-serif;
 		font-size: 25px;
-		border-bottom: 2px solid #71d1bd;
-		width: 52%;
+		width: 515%;
 		margin: 0 auto;
 		text-align: center;
 		font-weight: 800;
@@ -2248,11 +2110,10 @@
 @media screen and (max-width: 296px) {
 	/* mobile */
 	.contact-title {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
+	  color: #000000;
+    font-family: 'Montserrat', sans-serif;
 		font-size: 25px;
-		border-bottom: 2px solid #71d1bd;
-		width: 54%;
+		width: 515%;
 		margin: 0 auto;
 		text-align: center;
 		font-weight: 800;
@@ -2264,11 +2125,10 @@
 @media screen and (max-width: 284px) {
 	/* mobile */
 	.contact-title {
-		color: #71d1bd;
-		font-family: 'Cutive Mono', monospace;
+	  color: #000000;
+    font-family: 'Montserrat', sans-serif;
 		font-size: 25px;
-		border-bottom: 2px solid #71d1bd;
-		width: 56%;
+		width: 515%;
 		margin: 0 auto;
 		text-align: center;
 		font-weight: 800;

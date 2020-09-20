@@ -25,7 +25,7 @@ input[type=submit]:hover {
 }
 
 .contact-main-container {
-  margin-top: 1%;
+  margin-top: 4%;
   height: 650px;
 }
 
@@ -35,22 +35,24 @@ input[type=submit]:hover {
 }
 
 .contact-title {
-  color: #71d1bd;
-  font-family: 'Cutive Mono', monospace;
-  font-size: 30px;
-  border-bottom: 2px solid #71d1bd;
-  width: 13%;
+  color: #000000;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 35px;
+  width: 13% !important;
   margin: 0 auto;
   text-align: center;
   font-weight: 800;
+  margin-bottom: 3%;
 }
 
 .contact-description {
   color: black;
-  font-family: 'Cutive Mono', monospace;
-  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 17px;
   text-align: center;
   margin-bottom: 2%;
+  font-weight: 400;
+  margin-top: 3%;
 }
 
 .social-container {
@@ -58,6 +60,7 @@ input[type=submit]:hover {
   margin: 0 auto;
   text-align: center;
   padding-top: 1%;
+  margin-top: 1%;
 }
 
 .social-icons {

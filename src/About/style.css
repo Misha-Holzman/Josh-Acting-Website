@@ -6,11 +6,11 @@
 
 .about-title-text {
   color: #71d1bd;
-  font-family: 'Cutive Mono', monospace;
-  width: 15%;
+  font-family: 'Montserrat', sans-serif;
+  width: 20%;
   margin: 0 auto;
   text-align: center;
-  font-weight: 800;
+  font-weight: 900;
   font-size: 35px;
   margin-bottom: 6%;
   padding-top: 3%;
@@ -44,7 +44,7 @@
   color: black;
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
-  line-height: 1.2em;
+  line-height: 1.4em;
 }
 
 .about-city-country-img {
